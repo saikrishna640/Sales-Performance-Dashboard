@@ -31,9 +31,3 @@ This project demonstrates proficiency across the entire data management lifecycl
 | **Data Transformation** | Utilized **Pivot Tables** and supporting formulas for efficient aggregation, summarizing raw records into calculated metrics (KPIs) necessary for the dashboard. | Pivot Tables, Data Aggregation |
 | **Visualization & Reporting** | Designed a professional, single-sheet dashboard featuring multiple chart types (bar charts, line charts, pie charts, and map visuals). | Data Visualization, Business Reporting |
 | **Interactivity** | Integrated **Slicers** to allow users to dynamically filter all dashboard visuals by 'Category' and 'Year', enabling instant ad-hoc analysis. | Interactive Dashboard Design |
-
-
-**\[https://1drv.ms/i/c/769a3983100c5ddc/EeiOHCTsWu9IsutWhsevoM0BcPoFbLYjFNHpOyIOGyhDxA?e=i0P1xh]**
-
-
-```eof
